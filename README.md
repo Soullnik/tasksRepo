@@ -14,9 +14,6 @@
 - вёрстка и стилизация интерактивных элементов интерфейса (кнопки, ссылки, переключатели)
 
 ## Работа над проектом:
-
-<kbd>[![screenshot](../images/museum-prev.jpg)](https://raw.githubusercontent.com/rolling-scopes-school/tasks/master/tasks/images/museum.jpg)</kbd>
-
 [Макет Museum](https://www.figma.com/file/7dI6mXBFTdTvXxuhZZTt5h/Museum)  
 [Советы по выполнению задания](museum-hints.md)  
 <!-- [Видео с обзором задания](https://youtu.be/OF9zQ0jRx4E)   -->
